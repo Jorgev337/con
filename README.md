@@ -66,9 +66,6 @@ about - to know about me
 #
 ![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
 
-## License
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT/blob/main/LICENSE)
-
 ## Status
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT/tree/main)
 ![Forks](https://img.shields.io/github/forks/Ns-AnoNymouS/TG-CONVERT-BOT)
